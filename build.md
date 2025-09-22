@@ -5,17 +5,17 @@ This is a Java Spring Boot project.
 ## Prerequisites
 
 - Java 17 or higher
-- Maven
+- Gradle
 
 ## Build
 
 To build the project, run the following command:
 
 ```bash
-./mvnw install
+./gradlew build
 ```
 
-This will compile the code, run the tests, and package the application into a JAR file in the `target` directory.
+This will compile the code, run the tests, and package the application into a JAR file in the `build/libs` directory.
 
 ## Run
 
@@ -25,22 +25,22 @@ You can run the application in several ways:
 After building the project, you can run the application from the command line using:
 
 ```bash
-java -jar target/spring-petclinic-*.jar
+java -jar build/libs/spring-petclinic-*.jar
 ```
 
-### 2. Using Maven
-You can also run the application directly using the Spring Boot Maven plugin:
+### 2. Using Gradle
+You can also run the application directly using the Spring Boot Gradle plugin:
 
 ```bash
-./mvnw spring-boot:run
+./gradlew bootRun
 ```
 
 ### 3. Native Image
 To build and run a native image of the application, use the following commands:
 
 ```bash
-./mvnw native:compile
-./target/spring-petclinic
+./gradlew native:compile
+./build/spring-petclinic
 ```
 
 ### 4. Docker Compose
