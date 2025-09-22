@@ -1,4 +1,3 @@
-
 # PetClinic: User Stories and Benefits
 
 This document illustrates the features of the PetClinic application through user stories and anecdotes. These stories are designed to provide a clear understanding of how the application benefits its users in their daily tasks.
@@ -45,9 +44,9 @@ The Johnson family just got a new puppy, "Rocky." They bring him to the clinic f
 
 Dr. Adams is one of the most experienced veterinarians at our clinic. She has a busy day ahead of her, with a long list of appointments.
 
-**The Feature:** The "Veterinarians" page provides a clear and concise overview of all the veterinarians at the clinic and their specialties.
+**The Feature:** The "Veterinarians" page provides a clear and concise overview of all the veterinarians at the clinic and their specialties, and now also includes search and filter functionality for better doctor matching.
 
-**The Benefit:** This feature allows the receptionists and other staff members to quickly see which veterinarians are available and what their areas of expertise are. This helps in scheduling appointments efficiently and ensuring that each pet is seen by the most qualified veterinarian for its specific needs. This also allows new clients to get to know the veterinarians and their skills, building trust and confidence in the clinic.
+**The Benefit:** This feature allows the receptionists and other staff members to quickly see which veterinarians are available and what their areas of expertise are. It helps in scheduling appointments efficiently and ensuring that each pet is seen by the most qualified veterinarian for its specific needs. This also allows new clients to get to know the veterinarians and their skills, building trust and confidence in the clinic.
 
 ---
 
