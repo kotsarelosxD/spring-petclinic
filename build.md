@@ -49,3 +49,5 @@ You can also run the application using Docker Compose:
 ```bash
 docker-compose up
 ```
+
+Signed-off-by: kotsarelos <64009385+kotsarelosxD@users.noreply.github.com>
