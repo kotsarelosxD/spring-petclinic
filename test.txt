@@ -1,2 +1,1 @@
-Test content changed 2
-0
+Test content changed 0
