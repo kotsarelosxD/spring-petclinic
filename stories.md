@@ -1,4 +1,3 @@
-
 # PetClinic: User Stories and Benefits
 
 This document illustrates the features of the PetClinic application through user stories and anecdotes. These stories are designed to provide a clear understanding of how the application benefits its users in their daily tasks.
@@ -51,4 +50,6 @@ Dr. Adams is one of the most experienced veterinarians at our clinic. She has a 
 
 ---
 
-These stories demonstrate how the PetClinic application is designed to streamline the daily operations of a veterinary clinic, improve the user experience for both the staff and the clients, and ultimately, provide better care for the pets.
+## Technology Update
+
+Java version update to 21
