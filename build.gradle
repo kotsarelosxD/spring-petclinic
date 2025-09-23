@@ -16,7 +16,7 @@ version = '3.5.0'
 
 java {
   toolchain {
-    languageVersio n= JavaLanguageVersion.of(13)
+    languageVersio n= JavaLanguageVersion.of(16)
   }
 }
 
